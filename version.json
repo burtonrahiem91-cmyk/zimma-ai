@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/burtonrahiem70-droid/zimma-ai/releases/download/v2.0.8/ZIMMA-Setup.exe",
-    "changelog":  "Bug fixes and improvements",
-    "sha256":  "e3f1a0ecafa25b2d86ab3f8ae6c92e2f611f2b39d6192a99d213aacd8cf636da",
-    "version":  "2.0.8"
+    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.12/ZIMMA-Setup.exe",
+    "changelog":  "Fixed auto-update address to use the correct GitHub username.",
+    "sha256":  "23c20402b25644d6bc7e3ed4ddeef084acd77cf0398ce56e194bbef6404b223b",
+    "version":  "2.0.12"
 }
