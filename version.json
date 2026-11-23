@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.14/ZIMMA-Setup.exe",
-    "changelog":  "Deep mode research, local models can search the web, system tray, update notifications, smarter offline mode with a Settings option for the offline model.",
-    "sha256":  "8b35c94aefe876e332ba9b9f624802447596c7a17c5ce47c14cecbb311c4cf2e",
-    "version":  "2.0.14"
+    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.15/ZIMMA-Setup.exe",
+    "changelog":  "Fixed a bug that logged you out after every restart or update. Deep mode research, local models can search the web, system tray, update notifications, smarter offline mode.",
+    "sha256":  "6679e624e4101a49cd99950ab6ec436fedc76e61b4c1c93429438f44484535a4",
+    "version":  "2.0.15"
 }
