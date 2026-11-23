@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.13/ZIMMA-Setup.exe",
-    "changelog":  "Ollama works fully offline. ZIMMA switches to a local model when there is no internet.",
-    "sha256":  "580de6c3032a56c36f2119cb99287fbed4d8c50e02b18c6a7872271573f7f3af",
-    "version":  "2.0.13"
+    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.14/ZIMMA-Setup.exe",
+    "changelog":  "Offline fallback now skips models that aren't installed in Ollama and never crashes if Ollama is down.",
+    "sha256":  "e9e42fdcd9e9b52ab9a9d2cb394cbb8c6b273a888cba60e0b4b84be1d23462aa",
+    "version":  "2.0.14"
 }
