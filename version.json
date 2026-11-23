@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.20/ZIMMA-Setup.exe",
-    "changelog":  "Fixed port conflict between dev session and installed app — they now use separate single-instance mutexes so both can run side by side.",
-    "sha256":  "93a4e11b495e200edc64ca0a3b3c9b6eb059ca1867e0be7f96f0f3dd588044f0",
-    "version":  "2.0.20"
+    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.21/ZIMMA-Setup.exe",
+    "changelog":  "Fixed data loss on reinstall — all API keys, chats, memory and users now stored in %APPDATA%\\ZIMMA, never in the install folder. Installer and uninstaller never touch %APPDATA%.",
+    "sha256":  "080159c0b34390f913766a40f0f22217e3abecd67e0e9ae41821ad7f6bb7a138",
+    "version":  "2.0.21"
 }
