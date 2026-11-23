@@ -1,6 +1,6 @@
 {
     "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.20/ZIMMA-Setup.exe",
-    "changelog":  "Fixed auto-update: allowed GitHub CDN hosts (objects.githubusercontent.com, release-assets.githubusercontent.com) and added detailed failure logging to update.log.",
-    "sha256":  "20e9531a79555c6ca23c203392f7ad448675a49518a22a0105927bc7b651836a",
+    "changelog":  "Fixed port conflict between dev session and installed app — they now use separate single-instance mutexes so both can run side by side.",
+    "sha256":  "93a4e11b495e200edc64ca0a3b3c9b6eb059ca1867e0be7f96f0f3dd588044f0",
     "version":  "2.0.20"
 }
