@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.18/ZIMMA-Setup.exe",
-    "changelog":  "Strongest cloud model now used for final search answers, with fallback to your chat model. Reflection capped at 3 rounds.",
-    "sha256":  "13552698596e1c074ac7e9d71fa2cfa15cdb3f071c20d3c4a7c5496ece1f75b1",
-    "version":  "2.0.18"
+    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.19/ZIMMA-Setup.exe",
+    "changelog":  "Search planner now handles deep follow-ups like \u0027look deeper\u0027 and \u0027explain more\u0027 by writing more specific queries from chat context. Also includes: agentic multi-round search, strongest cloud model for search answers, Tavily support, system tray, offline Ollama improvements, deep mode, login persistence, and auto-update hardening.",
+    "sha256":  "65e2fa8fc98d872501a368640686edbd1225c926409dc57ae2d34805085d8e6e",
+    "version":  "2.0.19"
 }
