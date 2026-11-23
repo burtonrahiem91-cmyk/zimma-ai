@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.15/ZIMMA-Setup.exe",
-    "changelog":  "Fixed login after update — JWT secret now persists across restarts and updates. Also fixed .env line merging bug.",
-    "sha256":  "6679e624e4101a49cd99950ab6ec436fedc76e61b4c1c93429438f44484535a4",
-    "version":  "2.0.15"
+    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.17/ZIMMA-Setup.exe",
+    "changelog":  "Hardened auto-update: install-on-close (never interrupts chat), SHA256 host whitelist, manual update trigger in tray and Settings, and an off switch to disable auto-update.",
+    "sha256":  "346f1aa453081e8312d046720762e6fd3633a1d75d51f0d1010847d2d4c690d0",
+    "version":  "2.0.17"
 }
