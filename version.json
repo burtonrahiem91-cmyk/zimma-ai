@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/burtonrahiem70-droid/zimma-ai/releases/download/v2.0.8/ZIMMA-Setup.exe",
-    "changelog":  "Bug fixes and improvements",
-    "sha256":  "e3f1a0ecafa25b2d86ab3f8ae6c92e2f611f2b39d6192a99d213aacd8cf636da",
-    "version":  "2.0.8"
+    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.15/ZIMMA-Setup.exe",
+    "changelog":  "Fixed login after update — JWT secret now persists across restarts and updates. Also fixed .env line merging bug.",
+    "sha256":  "6679e624e4101a49cd99950ab6ec436fedc76e61b4c1c93429438f44484535a4",
+    "version":  "2.0.15"
 }
