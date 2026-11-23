@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.17/ZIMMA-Setup.exe",
-    "changelog":  "Hardened auto-update: install-on-close (never interrupts chat), SHA256 host whitelist, manual update trigger in tray and Settings, and an off switch to disable auto-update.",
-    "sha256":  "346f1aa453081e8312d046720762e6fd3633a1d75d51f0d1010847d2d4c690d0",
-    "version":  "2.0.17"
+    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.18/ZIMMA-Setup.exe",
+    "changelog":  "Strongest cloud model now used for final search answers, with fallback to your chat model. Reflection capped at 3 rounds.",
+    "sha256":  "13552698596e1c074ac7e9d71fa2cfa15cdb3f071c20d3c4a7c5496ece1f75b1",
+    "version":  "2.0.18"
 }
