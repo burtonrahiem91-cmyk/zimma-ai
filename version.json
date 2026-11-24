@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.23/ZIMMA-Setup.exe",
-    "changelog":  "Reminder system: short IDs, text cancel, missed reminders on startup, tomorrow scheduling. notify_done() wired into image generation. Reminder checker from all launch paths.",
-    "sha256":  "3200adba72ef9a50d466867610d74c134434e60f5a1e87119f1a86ea77a732be",
-    "version":  "2.0.23"
+    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.25/ZIMMA-Setup.exe",
+    "changelog":  "Fixed launch crash: missing regex modules in PyInstaller build. All previous features included.",
+    "sha256":  "ccd8277334c12dc3786fdb8b4e2a419a606823d6e062f3ced377ab20ffb39484",
+    "version":  "2.0.25"
 }
