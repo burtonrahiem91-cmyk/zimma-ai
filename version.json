@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.25/ZIMMA-Setup.exe",
-    "changelog":  "Fixed launch crash: missing multiprocessing module in PyInstaller build. Added freeze_support() and multiprocessing to hiddenimports. All previous features included.",
-    "sha256":  "448c7f12c586041bc48bed559fc8ca034e837d5656e392e0016cacb476bf5cf3",
-    "version":  "2.0.25"
+    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.26/ZIMMA-Setup.exe",
+    "changelog":  "Clickable toasts, zimma:// launch when closed, varied notification types, reply-finished toast.",
+    "sha256":  "277cf299f054ff0690e70d5d888592dc75e38b050f61588da4ca8e2ae7f6e4ae",
+    "version":  "2.0.26"
 }
