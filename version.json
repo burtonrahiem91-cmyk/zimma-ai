@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.27/ZIMMA-Setup.exe",
-    "changelog":  "Fixed reminder handler - httpx module was missing from PyInstaller hiddenimports. Also added support for time abbreviations like \u0027min\u0027, \u0027sec\u0027, \u0027hr\u0027.",
-    "sha256":  "f03662bedd83f3bbf333145e072a321595fcae990960faca2759816f81e5ae9e",
-    "version":  "2.0.27"
+    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.28/ZIMMA-Setup.exe",
+    "changelog":  "Fixed reminder handler: regex checked before import so AI can\u0027t fake reminders. Added reminder ID to confirmations. System prompt forbids AI from claiming it set reminders. Build smoke test added.",
+    "sha256":  "1d03a6160306c620e95ef22caad740f1a9e86a8e5354133c4191697b222abc71",
+    "version":  "2.0.28"
 }
