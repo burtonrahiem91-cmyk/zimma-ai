@@ -1,6 +1,6 @@
 {
     "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.25/ZIMMA-Setup.exe",
-    "changelog":  "Fixed launch crash: missing standard library modules in PyInstaller build (pkgutil, importlib, enum, functools, etc.). All previous features included.",
-    "sha256":  "e535586d862cf2d2a43bace3b48e33e1fcce69793ccc8341d5b25176b40b65e7",
+    "changelog":  "Fixed launch crash: missing multiprocessing module in PyInstaller build. Added freeze_support() and multiprocessing to hiddenimports. All previous features included.",
+    "sha256":  "448c7f12c586041bc48bed559fc8ca034e837d5656e392e0016cacb476bf5cf3",
     "version":  "2.0.25"
 }
