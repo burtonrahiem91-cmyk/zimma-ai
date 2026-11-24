@@ -1,6 +1,6 @@
 {
     "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.25/ZIMMA-Setup.exe",
-    "changelog":  "Fixed launch crash: missing regex modules in PyInstaller build. All previous features included.",
-    "sha256":  "ccd8277334c12dc3786fdb8b4e2a419a606823d6e062f3ced377ab20ffb39484",
+    "changelog":  "Fixed launch crash: missing standard library modules in PyInstaller build (pkgutil, importlib, enum, functools, etc.). All previous features included.",
+    "sha256":  "e535586d862cf2d2a43bace3b48e33e1fcce69793ccc8341d5b25176b40b65e7",
     "version":  "2.0.25"
 }
