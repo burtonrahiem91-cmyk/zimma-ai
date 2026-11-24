@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.29/ZIMMA-Setup.exe",
-    "changelog":  "Notification history: each reply toast stacks as a separate item in the notification center. Added Clear ZIMMA notifications button in Settings.",
-    "sha256":  "89a2246530a1dbb69aeeba5eee16714fe90fcc735c12723fee07c0b7fb3bae91",
-    "version":  "2.0.29"
+    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.30/ZIMMA-Setup.exe",
+    "changelog":  "Centralized \u0027ZIMMA responded\u0027 toast — fires from one place for all providers, not per-provider code.",
+    "sha256":  "feb1bc59f6e903a674dcfccd85ef8e96a188a1a06bc4fd5b75d2ac6118ddcc99",
+    "version":  "2.0.30"
 }
