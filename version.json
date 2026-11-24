@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.30/ZIMMA-Setup.exe",
-    "changelog":  "Centralized \u0027ZIMMA responded\u0027 toast — fires from one place for all providers, not per-provider code.",
-    "sha256":  "feb1bc59f6e903a674dcfccd85ef8e96a188a1a06bc4fd5b75d2ac6118ddcc99",
-    "version":  "2.0.30"
+    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.31/ZIMMA-Setup.exe",
+    "changelog":  "Fixed reminders not working in the web UI — streaming endpoint now runs the handler chain. Smoke test uses the real /chat/stream route.",
+    "sha256":  "e2a83e4daabad8f57646d5f89e4cb2280ae539dc04330e2aef72d4040a09c5b5",
+    "version":  "2.0.31"
 }
