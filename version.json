@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.26/ZIMMA-Setup.exe",
-    "changelog":  "Clickable toasts, zimma:// launch when closed, varied notification types, reply-finished toast.",
-    "sha256":  "277cf299f054ff0690e70d5d888592dc75e38b050f61588da4ca8e2ae7f6e4ae",
-    "version":  "2.0.26"
+    "download_url":  "https://github.com/burtonrahiem91-cmyk/zimma-ai/releases/download/v2.0.27/ZIMMA-Setup.exe",
+    "changelog":  "Fixed reminder handler - httpx module was missing from PyInstaller hiddenimports. Also added support for time abbreviations like \u0027min\u0027, \u0027sec\u0027, \u0027hr\u0027.",
+    "sha256":  "f03662bedd83f3bbf333145e072a321595fcae990960faca2759816f81e5ae9e",
+    "version":  "2.0.27"
 }
